@@ -10,6 +10,11 @@ Project Details--
  MessServer directory --- admin App Source code
  connectivity between database and apps --- phpApi directory
 
+Team-----
+1.Shailendra Mewada
+2.Rishabh Gupta
+3.Lovnish Jain
+4.Himanshu Gupta
 
 
 To run project ---
